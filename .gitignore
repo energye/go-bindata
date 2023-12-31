@@ -14,3 +14,5 @@
 # Golang project files
 .idea/
 *.iml
+
+pkg
