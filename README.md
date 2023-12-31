@@ -1,0 +1,2 @@
+# go-bindata
+go bindata
